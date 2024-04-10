@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor in the department of Computer Science at Sun Yat-Sen University (SYSU). He received a Ph.D. degree in Computer Science from Technical University of Munich （TUM） in Germany in 2016. He was an associate professor at Northeastern University from 2016 to 2018. I receeived the seven best paper awards (nomination) on DATE 2021, CODES+ISSS 2020, FPL 2022, ICPAS 2023, ICESS 2022, ICET 2021, ESTIMeida 2014,  two best demo awards (runner-up) on CICAI 2023 and CC-DAC2023 and one special feature award on ASP-DAC 2023.  
+I am a Professor in the department of Computer Science at Sun Yat-Sen University (SYSU). I received a Ph.D. degree in Computer Science from Technical University of Munich （TUM） in Germany in 2016. He was an associate professor at Northeastern University from 2016 to 2018. I receeived the seven best paper awards (nomination) on DATE 2021, CODES+ISSS 2020, FPL 2022, ICPAS 2023, ICESS 2022, ICET 2021, ESTIMeida 2014,  two best demo awards (runner-up) on CICAI 2023 and CC-DAC2023 and one special feature award on ASP-DAC 2023.  
 
 I do research in robotics and intelligent computing, an exciting area at the intersection of Robotics and Computer Architecture, Embedded Systems, and Machine Learning.
 
-
-
+We are always looking for self-motivated and creative students who are passionate about exploring techniques to develop high-efficient intelligent computing systems for robot. Please check out our research page and publications to learn more about our research focus and recent works.
 
 A data-driven personal website
 ======
