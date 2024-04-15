@@ -14,6 +14,8 @@ I do research in robotics and intelligent computing, an exciting area at the int
 
 We are always looking for self-motivated and creative students who are passionate about exploring techniques to develop high-efficient intelligent computing systems for robot. If you would like to find out more about myself and my research, please check out our research page and publications to learn more about our research focus and recent works. 
 
+Besides research, I enjoy my three kids, running,  hiking, and reading books.
+
 
 News
 ======
