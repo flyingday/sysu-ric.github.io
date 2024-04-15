@@ -8,13 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Gang Chen / Site Title"
+title                    : "Gang Chen / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Gang Chen"
+description              : &description "Professor in Sun Yat-sen University"
 url                      : https://sysu-ric.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,11 +23,11 @@ author:
   avatar           : "profile.png"
   name             : "Gang Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "China"
+  bio              : "Professor in Sun Yat-sen University"
+  location         : "China Guangzhou"
   employer         : "Sun Yat-sen University"
   uri              : # URL
-  email            : "cheng83(at)mail.sysu.edu.cn" 
+  email            : "cheng83(at)mail(dot)sysu(dot)edu(dot)cn" 
 
 
 
