@@ -7,8 +7,6 @@ author_profile: true
 
 ### Journal Papers (* indicates corresponding author, only list papers in recent three years)
 ======
-<font size=2>
-
 1. 李昌财，陈刚*，侯作勋，黄凯，张伟. 自动驾驶中的三维目标检测算法研究综述. 中国图形图像学报，2024
 1. Wencheng Li, Gang Chen*, Yi Chang. An Efficient Single Image De-raining Model with Decoupled Deep Networks. In IEEE Transactions on Image Processing (TIP). (CCF-A, Accepted, IF=10.6)
 1. Gang Chen*, Yi Zheng, Zhaoheng Zhou, Shengyu He, Wang Yi. A GPU-accelerated Real-Time Human Voice Separation Framework for Mobile Phones. In Journal of Systems Architecture (JSA), 2023 (CCF-B)
@@ -34,12 +32,8 @@ author_profile: true
 1. Gang Chen, Nan Guan, Kai Huang, Wang Yi. Fault-Tolerant Real-time Tasks Scheduling with Dynamic Fault Handling. In Journal of Systems Architecture (JSA), 2020. (CCF-B)
 
 
-</font>
-
 ### Conference Papers (*indicates corresponding author, only list papers in recent three years)
 ======
-<font size=2>
-
 1. Yushen Wang, Yang Yang, Jiaxi Deng, Haitao Meng Gang Chen*. FastOmniMVS: Real-Time Omnidirectional Depth Estimation From Multiview Fisheye Images. In 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2023
 
 1. Haitao Meng, Changcai Li, Gang Chen*, Zonghua Gu, Alois Knoll. ER3D: An Efficient Real-Time 3D Object Detection Framework for Autonomous Driving. In 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2023 (**Outstanding Paper Awards**)
@@ -61,5 +55,3 @@ author_profile: true
 1. Yu Zhang, Gang Chen*. An FPGA-accelerated ultra-high-speed stereo rectification for event-based camera. 2021 IEEE 4th International Conference on Electronics Technology (ICET). 2021 (**Best Student Paper Award**)
 1. Haitao Meng, Chonghao Zhong, Jianfeng Gu, Gang Chen*. A GPU-accelerated Deep Stereo-LiDAR Fusion for Real-time High-precision Dense Depth Sensing.  In Design, Automation & Test in Europe Conference (DATE), 2021. (**Best Paper Award**)
 1. Gang Chen, Shengyu He, Haitao Meng and Kai Huang. PhoneBit: Efficient GPU-Accelerated Binary Neural Network Inference Engine for Mobile Phones. In Design, Automation & Test in Europe Conference (DATE), 2020
-
-</font>
