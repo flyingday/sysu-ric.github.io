@@ -41,7 +41,9 @@ author_profile: true
 <font size=4>
 
 1. Yushen Wang, Yang Yang, Jiaxi Deng, Haitao Meng Gang Chen*. FastOmniMVS: Real-Time Omnidirectional Depth Estimation From Multiview Fisheye Images. In 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2023
+
 1. Haitao Meng, Changcai Li, Gang Chen*, Zonghua Gu, Alois Knoll. ER3D: An Efficient Real-Time 3D Object Detection Framework for Autonomous Driving. In 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2023 (**Outstanding Paper Awards**)
+
 1. Wenwei Lin, Chonghao Zhong, Xunpei Sun, Haitao Meng, Gang Chen*, Biao Hu, Zonghua Gu. Rotation-Invariant Descriptors Learned With Circulant Convolution Neural Networks. 2023 IEEE 35th International Conference on Tools with Artificial Intelligence (ICTAI), 2023 
 1. Qian Huang, Shangxin Gao, Yu Zhang, Gang Chen*. EDS-SLAM: An Energy-efficient Accelerator for Real-time Dense Stereo SLAM with Learned Feature Matching. In 42nd International Conference on Computer-Aided Design (ICCAD), 2023 
 1. Wendong Zheng, Yu Zhou, Gang Chen*, Zonghua Gu, Kai Huang. Towards Effective Training of Robust Spiking Recurrent Neural Networks under General Input Noise via Provable Analysis. In 42nd International Conference on Computer-Aided Design (ICCAD), 2023 
@@ -50,6 +52,14 @@ author_profile: true
 1. Yu Zhang, Gang Chen*, Tao He, Qian Huang, Kai Huang. ViraEye: An Energy-Efficient Stereo Vision Accelerator with Binary Neural Network in 55 nm CMOS. In 28th Asia and South Pacific Design Automation Conference (ASP-DAC), 2023  （**Special Feature Award**）
 1. Gang Chen, Zhaoheng Zhou, Shengyu He, Yi Zheng, Wang Yi. VoiceBit: GPU-Accelerated Real-Time Human Voice Separation for Mobile Phones. In 18th IEEE International Conference on Embedded Software and Systems (ICESS), 2022 （**Best Paper Award**）
 1. Changcai Li, Haitao Meng, Gang Chen*, Long Chen. Real-time Pseudo-LiDAR 3D object detection with geometric constraints. 2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC), 2022 
-1.Yehua Ling, Yuanxing Yan, Kai Huang, Gang Chen*. Ultra-Flow: An Ultra-fast and High-quality Optical Flow Accelerator with Deep Feature Matching on FPGA. In 32nd International Conference on Field Programmable Logic and Applications (FPL),2022 （**Best Paper Candidate**）
+1. Yehua Ling, Yuanxing Yan, Kai Huang, Gang Chen*. Ultra-Flow: An Ultra-fast and High-quality Optical Flow Accelerator with Deep Feature Matching on FPGA. In 32nd International Conference on Field Programmable Logic and Applications (FPL),2022 （**Best Paper Candidate**）
+1. Rui Xu, Siyu Luan, Zonghua Gu, Qingling Zhao, Gang Chen. LRP-based network pruning and policy distillation of robust and non-robust DRL agents for embedded systems. In Concurrency and Computation: Practice and Experience, 2022
+1. Rui Xu, Siyu Luan, Zonghua Gu, Qingling Zhao, Gang Chen. LRP-based Policy Pruning and Distillation of Reinforcement Learning Agents for Embedded Systems. In 25th IEEE International Symposium on Real-Time Distribute Computing (ISORC), 2022
+1. Boyang Li, jieling Li, Gang Chen, Hejun Wu, Kai Huang. De-Snowing LiDAR Point Clouds with Intensity and Spatial-Temporal Features. 2022 IEEE International Conference on Robotics and Automation (ICRA), 2022
+1. Yehua Ling, Yuanxing Yan, Kai Huang, Gang Chen*. FlowAcc: Real-Time High-Accuracy DNN-based Optical Flow Accelerator in FPGA. In Design, Automation & Test in Europe Conference (DATE), 2022
+1. Wendong Zheng, Putian, Zhao, Kai Huang, Gang Chen*. Understanding the Property of Long Term Memory for the LSTM with Attention Mechanism. The 30th ACM International Conference on Information and Knowledge Management (CIKM). 2021
+1. Yu Zhang, Gang Chen*. An FPGA-accelerated ultra-high-speed stereo rectification for event-based camera. 2021 IEEE 4th International Conference on Electronics Technology (ICET). 2021 (**Best Student Paper Award**)
+1. Haitao Meng, Chonghao Zhong, Jianfeng Gu, Gang Chen*. A GPU-accelerated Deep Stereo-LiDAR Fusion for Real-time High-precision Dense Depth Sensing.  In Design, Automation & Test in Europe Conference (DATE), 2021. (**Best Paper Award**)
+1. Gang Chen, Shengyu He, Haitao Meng and Kai Huang. PhoneBit: Efficient GPU-Accelerated Binary Neural Network Inference Engine for Mobile Phones. In Design, Automation & Test in Europe Conference (DATE), 2020
 
 </font>
