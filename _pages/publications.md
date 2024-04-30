@@ -7,6 +7,7 @@ author_profile: true
 
 ### Journal Papers
 ======
+<font size=8>
 1. 李昌财，陈刚*，侯作勋，黄凯，张伟. 自动驾驶中的三维目标检测算法研究综述. 中国图形图像学报，2024
 1. Wencheng Li, Gang Chen*, Yi Chang. An Efficient Single Image De-raining Model with Decoupled Deep Networks. In IEEE Transactions on Image Processing (TIP). (CCF-A, Accepted, IF=10.6)
 1. Gang Chen*, Yi Zheng, Zhaoheng Zhou, Shengyu He, Wang Yi. A GPU-accelerated Real-Time Human Voice Separation Framework for Mobile Phones. In Journal of Systems Architecture (JSA), 2023 (CCF-B)
@@ -16,4 +17,7 @@ author_profile: true
 1. Biao Hu, Yinbin Shi, Gang Chen, Zhengcai Cao, MengChu Zhou. Workload-Aware Scheduling of Real-Time Jobs in Cloud Computing to Minimize Energy Consumption. IEEE Internet of Things Journal , 2023 
 1. Haitao Meng, Changcai Li, Chonghao Zhong, Jianfeng Gu, Gang Chen*. FastFusion: Deep Stereo-LiDAR Fusion for Real-time High-precision Dense Depth Sensing.  In Journal of Field Robotics (JFR), 2023
 1. Yuanxing Yan, Yehua Ling, Gang Chen*. An Efficient Real-Time Accelerator for High-Accuracy DNN-based Optical Flow Estimation in FPGA. In Journal of Systems Architecture (JSA), 2023
-1. Wendong Zheng, Putian Zhao, Gang Chen*, Huihui Zhou; Yonghong Tian. A Hybrid Spiking Neurons Embedded LSTM Network for Multivariate Time Series Learning under Concept-drift Environment. In IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022 
+1. Wendong Zheng, Putian Zhao, Gang Chen*, Huihui Zhou; Yonghong Tian. A Hybrid Spiking Neurons Embedded LSTM Network for Multivariate Time Series Learning under Concept-drift Environment. In IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022
+
+
+</font>
