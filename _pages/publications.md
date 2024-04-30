@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 ### Journal Papers
 ======
 1. 李昌财，陈刚*，侯作勋，黄凯，张伟. 自动驾驶中的三维目标检测算法研究综述. 中国图形图像学报，2024
