@@ -7,7 +7,7 @@ author_profile: true
 
 ### Journal Papers (* indicates corresponding author, only list papers in recent three years)
 ======
-<font size=4>
+<font size=2>
 
 1. 李昌财，陈刚*，侯作勋，黄凯，张伟. 自动驾驶中的三维目标检测算法研究综述. 中国图形图像学报，2024
 1. Wencheng Li, Gang Chen*, Yi Chang. An Efficient Single Image De-raining Model with Decoupled Deep Networks. In IEEE Transactions on Image Processing (TIP). (CCF-A, Accepted, IF=10.6)
@@ -38,7 +38,7 @@ author_profile: true
 
 ### Conference Papers (*indicates corresponding author, only list papers in recent three years)
 ======
-<font size=4>
+<font size=2>
 
 1. Yushen Wang, Yang Yang, Jiaxi Deng, Haitao Meng Gang Chen*. FastOmniMVS: Real-Time Omnidirectional Depth Estimation From Multiview Fisheye Images. In 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2023
 
