@@ -19,7 +19,7 @@ Besides research, I enjoy spending my free time with my family, running, hiking,
 
 News
 ======
--06/2024: Qihao has joined the RIC Lab as new Ph.D students. Welcome!
+-06/2024: Qihao has joined the RIC Lab as new Ph.D students. Welcome! 
 -04/2024: Junhan and Sheng have joined the RIC Lab as new team assistants. Welcome!  
 -12/2023: Our paper on ER3D, an efficient real-time 3D object detection framework for autonomous driving, has received the Outstanding Paper Award in ICPAS 2023.  
 -11/2023: Our paper titled "An Efficient Single Image De-raining Model with Decoupled Deep Networks" has been accepted by IEEE Transactions on Image Processing (TIP).   
