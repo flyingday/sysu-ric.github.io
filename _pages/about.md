@@ -21,9 +21,13 @@ News
 ======
 -09/2024: Our collabtive paper "Adverse Weather Optical Flow: Cumulative Homogeneous-Heterogeneous Adaptation" has been accepted by TPAMI. Big congratulations to Hanyu!
 -09/2024: Our paper "Real-time Stereo-based 3D Object Detection for Streaming Perception" has been accepted by NIPS 2025. Big congratulations to Changcai! 
+
 -09/2024: Serve as the Session Chair of ChinaSoft 2024. 
+
 -09/2024: Serve as the TPC member of RTAS 2025. Welcome to submit your paper in RTAS 2025. 
+
 -08/2024: Serve as the SC Chair of ICTA 2024. Welcome to submit your paper in ICTA 2024. 
+
 -08/2024: Serve as the Session Chair of CCF-Chip 2024.  
 -06/2024: Qihao and Biao has joined the RIC Lab as new Ph.D students. Welcome! 
 -04/2024: Junhan， Sheng，Pinghuan have joined the RIC Lab as new team assistants. Welcome!  
