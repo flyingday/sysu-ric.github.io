@@ -26,7 +26,7 @@ News
 -08/2024: Serve as the SC Chair of ICTA 2024. Welcome to submit your paper in ICTA 2024. <br>
 -08/2024: Serve as the Session Chair of CCF-Chip 2024.  <br>
 -06/2024: Qihao and Biao has joined the RIC Lab as new Ph.D students. Welcome! <br>
--04/2024: Junhan， Sheng，Pinghuan have joined the RIC Lab as new team assistants. Welcome!<br>
+-04/2024: Junhan， Sheng，Pinghuan have joined the RIC Lab as new team assistants. Welcome!
 -12/2023: Our paper on ER3D, an efficient real-time 3D object detection framework for autonomous driving, has received the Outstanding Paper Award in ICPAS 2023. <br> 
 -11/2023: Our paper titled "An Efficient Single Image De-raining Model with Decoupled Deep Networks" has been accepted by IEEE Transactions on Image Processing (TIP).<br>   
 
