@@ -20,15 +20,15 @@ Besides research, I enjoy spending my free time with my family, running, hiking,
 News
 ======
 -09/2024: <font color=red>[Paper]</font> Our collabtive paper "Adverse Weather Optical Flow: Cumulative Homogeneous-Heterogeneous Adaptation" has been accepted by TPAMI. Big congratulations to Hanyu!<br>
--09/2024: Our paper "Real-time Stereo-based 3D Object Detection for Streaming Perception" has been accepted by NIPS 2025. Big congratulations to Changcai!<br>
+-09/2024: <font color=red>[Paper]</font> Our paper "Real-time Stereo-based 3D Object Detection for Streaming Perception" has been accepted by NIPS 2025. Big congratulations to Changcai!<br>
 -09/2024: Serve as the Session Chair of ChinaSoft 2024.<br>
 -09/2024: Serve as the TPC member of RTAS 2025. Welcome to submit your paper in RTAS 2025. <br>
 -08/2024: Serve as the SC Chair of ICTA 2024. Welcome to submit your paper in ICTA 2024. <br>
 -08/2024: Serve as the Session Chair of CCF-Chip 2024.  <br>
 -06/2024: Qihao and Biao has joined the RIC Lab as new Ph.D students. Welcome! <br>
 -04/2024: Junhan， Sheng，Pinghuan have joined the RIC Lab as new team assistants. Welcome!
--12/2023: Our paper on ER3D, an efficient real-time 3D object detection framework for autonomous driving, has received the Outstanding Paper Award in ICPAS 2023. <br> 
--11/2023: Our paper titled "An Efficient Single Image De-raining Model with Decoupled Deep Networks" has been accepted by IEEE Transactions on Image Processing (TIP).<br>   
+-12/2023: <font color=red>[Award]</font> Our paper on ER3D, an efficient real-time 3D object detection framework for autonomous driving, has received the Outstanding Paper Award in ICPAS 2023. <br> 
+-11/2023: <font color=red>[Paper]</font> Our paper titled "An Efficient Single Image De-raining Model with Decoupled Deep Networks" has been accepted by IEEE Transactions on Image Processing (TIP).<br>   
 
 
 
