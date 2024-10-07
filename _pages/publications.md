@@ -7,6 +7,8 @@ author_profile: true
 
 ### Journal Papers (* indicates corresponding author, only list papers in recent three years)
 ======
+1. Yu Zhang, Jianing Zheng, Gang Chen*. eTSDF: An Energy-efficient Accelerator for TSDF-based 3D Scene Reconstruction in FPGAs. Tsinghua Science and Technology, 2024 (IF=5.2)
+1. Hanyu Zhou, Yi Chang, Zhiwei Shi, Wending Yan, Gang Chen, Yonghong Tian, Luxin Yan. Adverse Weather Optical Flow: Cumulative Homogeneous-Heterogeneous Adaptation. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 (CCF-A)
 1. 李昌财，陈刚*，侯作勋，黄凯，张伟. 自动驾驶中的三维目标检测算法研究综述. 中国图形图像学报，2024
 1. Wencheng Li, Gang Chen*, Yi Chang. An Efficient Single Image De-raining Model with Decoupled Deep Networks. In IEEE Transactions on Image Processing (TIP). (CCF-A, Accepted, IF=10.6)
 1. Gang Chen*, Yi Zheng, Zhaoheng Zhou, Shengyu He, Wang Yi. A GPU-accelerated Real-Time Human Voice Separation Framework for Mobile Phones. In Journal of Systems Architecture (JSA), 2023 (CCF-B)
@@ -34,6 +36,8 @@ author_profile: true
 
 ### Conference Papers (*indicates corresponding author, only list papers in recent three years)
 ======
+1. Changcai Li, Zonghua Gu, Gang Chen*, Libo Huang, Wei Zhang, Huihui Zhou. Real-time Stereo-based 3D Object Detection for Streaming Perception. Annual Conference on Neural Information Processing Systems (NeurIPS), 2024 (CCF-A) 
+
 1. Yushen Wang, Yang Yang, Jiaxi Deng, Haitao Meng Gang Chen*. FastOmniMVS: Real-Time Omnidirectional Depth Estimation From Multiview Fisheye Images. In 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2023
 
 1. Haitao Meng, Changcai Li, Gang Chen*, Zonghua Gu, Alois Knoll. ER3D: An Efficient Real-Time 3D Object Detection Framework for Autonomous Driving. In 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2023 (**Outstanding Paper Awards**)
