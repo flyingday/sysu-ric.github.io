@@ -8,23 +8,30 @@ redirect_from:
 ---
 Honors and Awards
 ======
-*	ASP-DAC Special Feature Award, 2023 (Top-Tier conference in EDA)
+*	ICPADS Outstanding Paper Award, 2023,
+IEEE International Conference on Parallel and Distributed Systems
+ (ICPADS)
+*	CCF-DAC Best Demo Award, 2023,
+CCF Integrated Circuit Design and Automation Conference (CCF-DAC)
+*	CICAI Best Demo Award Runner-Up, 2023,
+International Conference on Artificial Intelligence (CICAI)
+*	ASP-DAC Special Feature Award, 2023 (Top-Tier conference in EDA),
 28th Asia and South Pacific Design Automation Conference (ASP-DAC)
-*	ICESS Best Paper Award, 2022
+*	ICESS Best Paper Award, 2022,
 18th IEEE International Conference on Embedded Software and Systems (ICESS).
-*	FPL Best Paper Award Finalist, 2022 (Top-Tier conference in FPGA)
+*	FPL Best Paper Award Finalist, 2022 (Top-Tier conference in FPGA),
 32nd International Conference on Field Programmable Logic and Applications(FPL).
-*	DATE Best Paper Award, 2021 (Top-Tier conference in EDA)
+*	DATE Best Paper Award, 2021 (Top-Tier conference in EDA),
 24th IEEE/ACM Design, Automation & Test in Europe Conference (DATE)
-* ICET Best Paper Award, 2021
+* ICET Best Paper Award, 2021,
 IEEE International Conference on Electronics Technology (ICET)
-*	CODES+ISSS Best Paper Award Candidate, 2020 (Top-Tier conference in Embedded System)
+*	CODES+ISSS Best Paper Award Candidate, 2020 (Top-Tier conference in Embedded System),
 18th IEEE/ACM International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)
-*	ESTIMedia Best Paper Award, 2013
+*	ESTIMedia Best Paper Award, 2013,
 IEEE Symposium on Embedded Systems for Real-Time Multimedia (ESTIMedia)
-*	ICRA DJI RoboMaster Mobile Manipulation Challenge, champion and Outstanding Performance Award, 2017 （Top-Tier conference in Robotics）
+*	ICRA DJI RoboMaster Mobile Manipulation Challenge, champion and Outstanding Performance Award, 2017 （Top-Tier conference in Robotics,
 IEEE International Conference on Robotics and Automation (ICRA)
-*	NEU-CSE Outstanding Contribution Award for Teaching, 2016
+*	NEU-CSE Outstanding Contribution Award for Teaching, 2016,
 School of Computer Science and Engineering in Northeastern University (NEU-CSE)
 
 
