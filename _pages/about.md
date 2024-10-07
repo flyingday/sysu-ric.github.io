@@ -19,7 +19,7 @@ Besides research, I enjoy spending my free time with my family, running, hiking,
 
 News
 ======
--09/2024: Our collabtive paper "Adverse Weather Optical Flow: Cumulative Homogeneous-Heterogeneous Adaptation" has been accepted by TPAMI. Big congratulations to Hanyu!<br>
+-09/2024: <font color=red>[Paper]</font> Our collabtive paper "Adverse Weather Optical Flow: Cumulative Homogeneous-Heterogeneous Adaptation" has been accepted by TPAMI. Big congratulations to Hanyu!<br>
 -09/2024: Our paper "Real-time Stereo-based 3D Object Detection for Streaming Perception" has been accepted by NIPS 2025. Big congratulations to Changcai!<br>
 -09/2024: Serve as the Session Chair of ChinaSoft 2024.<br>
 -09/2024: Serve as the TPC member of RTAS 2025. Welcome to submit your paper in RTAS 2025. <br>
