@@ -29,8 +29,7 @@ School of Computer Science and Engineering in Northeastern University (NEU-CSE)
 
 
 
-<!--- 
----
+<!--
 {% include base_path %}
 
 Education
@@ -87,4 +86,4 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 ---
----！>
+-->
