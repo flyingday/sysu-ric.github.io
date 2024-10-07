@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-Courses:
+Courses
 ======
 *	Lecturer, Computer Organization and Design, Sun Yat-sen University, China, 72 class hours per semester. 2020,2021,2022,2023, 2024 Fall
 *	Lecturer, Lab course for Computer Organization and Design, Sun Yat-sen University, China, 36 class hours per semester.

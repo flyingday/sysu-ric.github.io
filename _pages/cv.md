@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Program Organizer:
+Program Organizer
 ======
 * SC Chair, IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), 2024
 * Special Session Chair, IEEE International Conference on Intelligent Technology and Embedded Systems(ICITES), 2024
@@ -15,7 +15,7 @@ Program Organizer:
 * TPC Chair, National Conference on Embedded System Technology (ESTC), 2017
 
 
-Program Committee Member:
+Program Committee Member
 ======
 * IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), 2021, 2022, and 2025
 * The 20th IFIP International Conference on Network and Parallel Computing (NPC), 2024
@@ -25,7 +25,7 @@ Program Committee Member:
 * IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), 2021,2022,2023
 * IEEE International Symposium on Real-time Distributed Computing (ISORC) , 2019
 
-Journal Editors:
+Journal Editors
 ======
 * Associate Editor， Journal of System Architecture （JSA）
 * Associate Editor， Journal of Circuits, Systems and Computers (JCSC)
