@@ -16,6 +16,8 @@ We are always looking for self-motivated and creative students who are passionat
 
 Besides research, I enjoy spending my free time with my family, running, hiking, and reading books.
 
+Positions available for self-motivated PhD students: I am interested in working with strong system students. If you are interested in my research and working with me, please include some samples of your work when contacting me（cheng83(at)mail.sysu.edu.cn）.
+
 
 News
 ======
